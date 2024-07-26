@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yosef Fetene</h1>
 <h3 align="center">A passionate data analyst from Ethiopia</h3>
 
+<a href="https://wakatime.com/@018ebd24-1314-473c-aa84-b411ccfd5cdf"><img src="https://wakatime.com/badge/user/018ebd24-1314-473c-aa84-b411ccfd5cdf.svg" alt="Total time coded since Apr 8 2024" /></a>
 
 - 🔭 I’m currently working on [Technical_Studies](https://github.com/Yosef-ft/Technical_Studies)
 
@@ -18,8 +19,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yosef-ft&show_icons=true&locale=en&layout=compact" alt="yosef-ft" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yosef-ft&show_icons=true&locale=en" alt="yosef-ft" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yosef-ft&show_icons=true&locale=en&layout=compact" alt="yosef-ft" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yosef-ft&" alt="yosef-ft" /></p>
